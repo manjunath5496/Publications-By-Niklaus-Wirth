@@ -1,4 +1,9 @@
 
+<h2>Niklaus Wirth</h2>
+<p class="tagline">Born February 15, 1934, Winterthur, Switzerland, early Promoter of good programming practices; developer of the programming languages Pascal, Modula-2, and Oberon; recipient of the 1984 ACM Turing Award.</p>
+
+
+
 <ul>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Publications-By-Niklaus-Wirth/blob/master/niw(1).pdf" style="text-decoration:none;">The Programming Language Pascal</a></b></li>
